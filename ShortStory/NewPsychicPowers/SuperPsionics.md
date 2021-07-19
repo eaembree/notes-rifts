@@ -1,10 +1,5 @@
-Sense Living
-Sense Supernatural
-Speak with the Dead
-
-der Schattendienst: The Shadow Service
-
-# Super
+# Super-Psionics
+---
 ## Telekinetic Shockwave
 **Range**: Touch, up to 20ft
 **Duration**: Instance

@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ShortStory/TheShadowService.md",
+            "file": "ShortStory/NewTech/Chromatoplating.md",
             "mode": "source"
           }
-        },
-        "group": "553d1eafcd5b7a6f"
-      },
-      {
-        "id": "0984041037b6fce0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ShortStory/TheShadowService.md",
-            "mode": "preview"
-          }
-        },
-        "group": "553d1eafcd5b7a6f"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShortStory/TheShadowService.md",
+                "file": "ShortStory/NewTech/Chromatoplating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +88,15 @@
   },
   "active": "0a2645086380cea0",
   "lastOpenFiles": [
-    "ShortStory/TheShadowService.md",
-    "PsychicPowers_New.md",
-    "ShortStory/Untitled.md",
+    "ShortStory/NewTech/Chromatoplating.md",
     "ShortStory/Notes_Psy.md",
-    "Untitled.md",
-    "Outline.md"
+    "ShortStory/NewPsychicPowers/Notes.md",
+    "ShortStory/NewPsychicPowers/SuperPsionics.md",
+    "ShortStory/PsychicPowers/TelekineticShockware.md",
+    "ShortStory/PsychicPowers/PsychicPowers_New.md",
+    "ShortStory/PsychicPowers/Untitled.md",
+    "ShortStory/Untitled.md",
+    "PsychicPowers_New.md",
+    "ShortStory/TheShadowService.md"
   ]
 }
