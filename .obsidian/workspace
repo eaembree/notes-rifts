@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ShortStory/NewTech/Chromatoplating.md",
+            "file": "ShortStory/TheShadowService.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShortStory/NewTech/Chromatoplating.md",
+                "file": "ShortStory/TheShadowService.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0a2645086380cea0",
   "lastOpenFiles": [
-    "ShortStory/NewTech/Chromatoplating.md",
-    "ShortStory/Notes_Psy.md",
+    "ShortStory/TheShadowService.md",
     "ShortStory/NewPsychicPowers/Notes.md",
+    "ShortStory/Outline.md",
+    "ShortStory/PsyClones.md",
+    "ShortStory/NewTech/Chromatoplating.md",
+    "ShortStory/NewTech/TCX-01_Chameleon.md",
     "ShortStory/NewPsychicPowers/SuperPsionics.md",
-    "ShortStory/PsychicPowers/TelekineticShockware.md",
-    "ShortStory/PsychicPowers/PsychicPowers_New.md",
-    "ShortStory/PsychicPowers/Untitled.md",
     "ShortStory/Untitled.md",
-    "PsychicPowers_New.md",
-    "ShortStory/TheShadowService.md"
+    "ShortStory/NewPsychicPowers/Untitled.md",
+    "ShortStory/NewTech/ChromaArmor.md"
   ]
 }
