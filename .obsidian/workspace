@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ShortStory/TheShadowService.md",
+            "file": "ShortStory/OCCs/SDPsyOp.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShortStory/TheShadowService.md",
+                "file": "ShortStory/OCCs/SDPsyOp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0a2645086380cea0",
   "lastOpenFiles": [
+    "ShortStory/OCCs/SDPsyOp.md",
+    "ShortStory/OCCs/Untitled.md",
+    "ShortStory/Characters/Dieter.md",
+    "ShortStory/Characters/Valerie.md",
+    "ShortStory/Outline.md",
+    "ShortStory/Characters/ValerieBauer.md",
+    "ShortStory/Characters/Untitled.md",
     "ShortStory/TheShadowService.md",
     "ShortStory/NewPsychicPowers/Notes.md",
-    "ShortStory/Outline.md",
-    "ShortStory/PsyClones.md",
-    "ShortStory/NewTech/Chromatoplating.md",
-    "ShortStory/NewTech/TCX-01_Chameleon.md",
-    "ShortStory/NewPsychicPowers/SuperPsionics.md",
-    "ShortStory/Untitled.md",
-    "ShortStory/NewPsychicPowers/Untitled.md",
-    "ShortStory/NewTech/ChromaArmor.md"
+    "ShortStory/PsyClones.md"
   ]
 }

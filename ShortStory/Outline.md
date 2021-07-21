@@ -5,10 +5,3 @@ Two specials ops are sent to investiage the area from which the solider returned
 # Assault
 # Cleanup
 # The New Normal
----
-# Characters
-
-## Dieter König (Hauptman/Captain)
-
-## Valerie Bauer (no official rank)
-Agent of SD
