@@ -9,3 +9,4 @@
 Sense Living
 Sense Supernatural
 Speak with the Dead
+HideInPlainSight
